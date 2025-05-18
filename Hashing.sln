@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{75C14870-B755-468B-B7BA-1D7128389D83}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roblox.Hashing", "src\hashing\Roblox.Hashing.csproj", "{1D140FA2-F281-40A1-A9B3-C55C76F32CC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roblox.Hashing", "src\Roblox.Hashing.csproj", "{884C1FF1-C8A0-41CC-ACA6-385545A36F01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,12 +14,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1D140FA2-F281-40A1-A9B3-C55C76F32CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1D140FA2-F281-40A1-A9B3-C55C76F32CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1D140FA2-F281-40A1-A9B3-C55C76F32CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1D140FA2-F281-40A1-A9B3-C55C76F32CC8}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{1D140FA2-F281-40A1-A9B3-C55C76F32CC8} = {75C14870-B755-468B-B7BA-1D7128389D83}
+		{884C1FF1-C8A0-41CC-ACA6-385545A36F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{884C1FF1-C8A0-41CC-ACA6-385545A36F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{884C1FF1-C8A0-41CC-ACA6-385545A36F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{884C1FF1-C8A0-41CC-ACA6-385545A36F01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
